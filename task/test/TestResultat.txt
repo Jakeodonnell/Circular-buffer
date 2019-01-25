@@ -1,0 +1,17 @@
+TEST:23:testAddElement:PASS
+TEST:24:testRemoveHead:PASS
+TEST:25:testContain:PASS
+TEST:26:testRemoveValue:PASS
+TEST:27:testBlackBox1:PASS
+TEST:28:testBlackBox2:PASS
+TEST:29:testBlackBox3:PASS
+TEST:30:testBlackBox4:PASS
+TEST:31:testBlackBox5:PASS
+TEST:32:testBlackBox6:PASS
+TEST:33:testBlackBox7:PASS
+TEST:34:testBlackBox8:PASS
+TEST:35:testBlackBox9:PASS
+
+-----------------------
+13 Tests 0 Failures 0 Ignored
+OK
